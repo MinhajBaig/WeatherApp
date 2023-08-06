@@ -1,0 +1,29 @@
+.mainheading{
+    font-size: 35px;
+    margin: auto;
+    text-align: center;
+}
+
+.searchbar{
+    width: 200px;
+}
+
+.details{
+    margin-top: ;
+    margin-bottom: 15px;
+    text-align: center;
+  background-image: linear-gradient(to right, rgb(0, 200, 255) , rgb(217, 0, 255));
+}
+
+.atmosphere{
+    border: 5px solid royalblue;
+    border-radius: 15px;
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.cardlayout{
+    margin: auto;
+}
+
